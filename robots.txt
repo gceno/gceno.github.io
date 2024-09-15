@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gceno.github.io/SoF/sitemap.SoF.gz
